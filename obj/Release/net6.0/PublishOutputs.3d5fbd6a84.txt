@@ -1,0 +1,7 @@
+C:\test-webapp\obj\Release\net6.0\PubTmp\Out\test-webapp.exe
+C:\test-webapp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\test-webapp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\test-webapp\obj\Release\net6.0\PubTmp\Out\test-webapp.dll
+C:\test-webapp\obj\Release\net6.0\PubTmp\Out\test-webapp.deps.json
+C:\test-webapp\obj\Release\net6.0\PubTmp\Out\test-webapp.runtimeconfig.json
+C:\test-webapp\obj\Release\net6.0\PubTmp\Out\test-webapp.pdb
